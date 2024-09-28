@@ -1,0 +1,14 @@
+
+ 
+
+ 1. First Setup Jest 
+      - go to - https://www.robinwieruch.de/webpack-setup-tutorial/
+          - scroll down to Webpack Setup
+      - next go to https://www.robinwieruch.de/webpack-babel-setup-tutorial/
+ 2. https://www.robinwieruch.de/react-testing-jest/
+      npm install --save-dev jest
+
+ 3. Go to https://www.robinwieruch.de/react-testing-library/
+    Scroll down "React Testing Library: Rendering a Component"
+
+ 
